@@ -28,6 +28,7 @@ h2{
     margin-top: 2%;
 }
 .Hire-Me-Button{
+    color: white;
     text-decoration: none;
     padding: 10px 30px;
     background-image: linear-gradient(#feb499, #FF6D50);
